@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bb7bcc6e-ec51-4cab-8d4c-1221d31052ef" width="300">
+<img src="https://github.com/user-attachments/assets/77bf8b61-714d-4085-baf1-72a05b116853" width="600">
 </div>
 <h1 align="center">Prof and Zeus's (PRZE) Lab</h1>
 <p align="center"><b>PRZE</b> <i>(pronouned Praise)</i> <b>Lab</b>, is a duo of two programmers, namely <b><a href="https://github.com/Professor739">Professor739</b>, and <b><a href="https://github.com/zeusssz">Zeus.</b></p>
